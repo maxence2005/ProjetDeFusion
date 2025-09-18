@@ -7,12 +7,17 @@ A simple and efficient desktop application to merge 2 PDF files
 ## Installation
 
 ```bash
-git clone
+git clone ...
 
 pip install requirements.txt
 
 python -m ProjetDeFusion
+```
 
+## Authors
 
-Authors
 Maxence Rebours
+
+## License
+
+This project is licensed under the MIT License.
